@@ -1,4 +1,4 @@
 project-zero
 ============
 
-Una muestra de la utilización de LESS
+Una muestra de la utilización de LESS.
